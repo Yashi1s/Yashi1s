@@ -4,6 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Yashika+%F0%9F%91%8B;IT+Student+%7C+Chennai%2C+India;Full-Stack+%2B+AI%2FML+Enthusiast;Cybersecurity+Learner+%F0%9F%94%90" alt="Typing SVG" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashi1s&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yashi1s?label=Followers&style=flat-square&color=bf91f3&labelColor=0d1117" alt="Followers" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -15,8 +28,10 @@ class Yashika:
     def __init__(self):
         self.name        = "Yashika S"
         self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "B.Tech Information Technology @ Velammal Engineering College"
+        self.degree      = "B.Tech Information Technology"
+        self.college     = "Velammal Engineering College"
         self.cgpa        = 7.98
+        self.email       = "yashikasoff@gmail.com"
 
         self.stack = [
             "Java", "Python", "C",
@@ -79,6 +94,36 @@ print(me.motto())
 
 ---
 
+## 💡 Skill Proficiency
+
+**Languages**
+```
+Java          ████████████████████░░░░   80%
+Python        ███████████████████░░░░░   75%
+JavaScript    ██████████████░░░░░░░░░░   55%
+C             ████████████░░░░░░░░░░░░   48%
+```
+
+**Web & Backend**
+```
+Spring Boot   ████████████████████░░░░   80%
+Flask         █████████████░░░░░░░░░░░   52%
+HTML / CSS    █████████████████████░░░   85%
+Bootstrap     ████████████████░░░░░░░░   65%
+Hibernate     ████████████░░░░░░░░░░░░   48%
+```
+
+**DevOps & Security**
+```
+Docker        ██████████████░░░░░░░░░░   55%
+MySQL         ████████████████░░░░░░░░   65%
+Wireshark     ████████████░░░░░░░░░░░░   48%
+Kali Linux    ███████████░░░░░░░░░░░░░   44%
+Git / GitHub  ████████████████████░░░░   80%
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,37 +150,7 @@ print(me.motto())
 
 ---
 
-
-
-<div align="center">
-
-| 🎯 Milestone | 🏅 Status |
-|:---|:---:|
-| 🐣 Created GitHub Account | ✅ Done |
-| 📝 First Commit | ✅ Done |
-| 🌐 Published Profile README | ✅ Done |
-| 🔐 Cybersecurity Certified | ✅ Done |
-| 🤖 AI/ML Certified | ✅ Done |
-| 🏭 AICTE Internship Completed | ✅ Done |
-| 🇮🇳 Smart India Hackathon | ✅ Done |
-| ⭐ 10 GitHub Stars Received | 🔜 Soon |
-| 🍴 First Pull Request | 🔜 Soon |
-| 👥 10 Followers | 🔜 Soon |
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
-
-<!-- 
-  SETUP REQUIRED: Run the GitHub Action below first.
-  After the first run, the snake SVG will appear here automatically.
-  Steps:
-    1. Create file: .github/workflows/snake.yml  (contents below)
-    2. Go to Actions tab → "Generate Snake" → Run workflow
-    3. The snake will appear here once the output branch is created
--->
 
 <div align="center">
   <picture>
@@ -156,8 +171,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -178,7 +193,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-> **After adding this file:** go to the **Actions** tab on your profile repo → select **"Generate Snake"** → click **"Run workflow"**. The snake will appear within ~30 seconds!
+> **After adding this file:** go to the **Actions** tab → select **"Generate Snake"** → click **"Run workflow"**. The snake appears within ~30 seconds!
 
 </details>
 
@@ -187,9 +202,15 @@ jobs:
 ## 💼 Work Experience
 
 <details>
-<summary>🏢 <strong>Inspire Softech Solutions, Chennai</strong> — AICTE Intern | May – July 2025</summary>
+<summary><strong>🏢 Inspire Softech Solutions, Chennai — AICTE Intern &nbsp;|&nbsp; May – July 2025</strong></summary>
 
-> `Java` `Spring Boot` `HTML` `CSS` `MySQL` `Backend Integration`
+<br/>
+
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - ✅ Completed an **AICTE-certified internship** with hands-on full-stack development experience.
 - 🔗 Integrated frontend and backend components into a cohesive mini-project.
@@ -199,9 +220,13 @@ jobs:
 </details>
 
 <details>
-<summary>💻 <strong>Kodacy (Remote)</strong> — AI & Machine Learning Intern | Oct – Nov 2025</summary>
+<summary><strong>💻 Kodacy (Remote) — AI & Machine Learning Intern &nbsp;|&nbsp; Oct – Nov 2025</strong></summary>
 
-> `Python` `Machine Learning` `Data Preprocessing` `Scikit-learn` `AI Algorithms`
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 - 🤖 Gained practical exposure to core **AI/ML concepts** and algorithm design.
 - 📊 Worked on **data preprocessing** pipelines and model evaluation techniques.
@@ -249,8 +274,8 @@ jobs:
 
 | 📜 Degree | 🏫 Institution | 📅 Year | 🎯 Score |
 |:---|:---|:---:|:---:|
-| B.Tech — Information Technology | Velammal Engineering College, Chennai | Expected May 2027 | 7.98 CGPA |
-| HSC (Class XII) | Sethu Baskara Matric. Hr. Sec. School | Completed | 79.8% |
+| B.Tech — Information Technology | Velammal Engineering College, Chennai | Expected May 2027 | **7.98 CGPA** |
+| HSC (Class XII) | Sethu Baskara Matric. Hr. Sec. School | Completed | **79.8%** |
 
 </div>
 
@@ -258,14 +283,68 @@ jobs:
 
 ## 🌱 Currently Learning
 
+```
+🤖 Machine Learning   →  Supervised Learning, Model Evaluation, Scikit-learn
+🔐 Cybersecurity      →  Ethical Hacking, Network Security, Penetration Testing
+🌐 Web Development    →  Advanced Spring Boot, REST APIs, Microservices
+📊 Data Science       →  Pandas, Matplotlib, Data Preprocessing Pipelines
+🐳 DevOps             →  Docker, CI/CD Basics, GitHub Actions
+```
+
+---
+
+## 🎯 Milestones
+
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot%20Advanced-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=for-the-badge&logo=pandas&logoColor=white)
+| 🎯 Milestone | 🏅 Status |
+|:---|:---:|
+| 🐣 Created GitHub Account | ✅ Done |
+| 📝 First Commit | ✅ Done |
+| 🌐 Published Profile README | ✅ Done |
+| 🔐 Cybersecurity Certified | ✅ Done |
+| 🤖 AI/ML Certified | ✅ Done |
+| 🏭 AICTE Internship Completed | ✅ Done |
+| 🇮🇳 Smart India Hackathon | ✅ Done |
+| ⭐ 10 GitHub Stars Received | 🔜 Soon |
+| 🍴 First Pull Request | 🔜 Soon |
+| 👥 10 Followers | 🔜 Soon |
 
 </div>
+
+---
+
+## 🤫 Secret Section
+
+<details>
+<summary><strong>🔐 Click here... if you dare 👀</strong></summary>
+
+<br/>
+
+```
+ ██╗   ██╗ █████╗ ███████╗██╗  ██╗██╗██╗  ██╗ █████╗
+ ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██║██║ ██╔╝██╔══██╗
+  ╚████╔╝ ███████║███████╗███████║██║█████╔╝ ███████║
+   ╚██╔╝  ██╔══██║╚════██║██╔══██║██║██╔═██╗ ██╔══██║
+    ██║   ██║  ██║███████║██║  ██║██║██║  ██╗██║  ██║
+    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+> 🙏 Thanks for visiting my profile! You're clearly a curious developer — I love that energy.
+
+**Fun facts about me:**
+- 🌙 I code best late at night with lo-fi in the background
+- ☕ Tea + Code = My ultimate combo
+- 🔐 I learn security by breaking things — ethically, of course!
+- 🎯 Goal for 2026: Crack a top tech internship & contribute to open source
+
+**If you're a recruiter reading this:**
+
+> I'm actively looking for **internship & full-time opportunities** in Full-Stack, AI/ML, or Cybersecurity. Let's build something impactful together! 🚀
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashika-s)
+
+</details>
 
 ---
 
@@ -282,7 +361,13 @@ jobs:
 ---
 
 <div align="center">
+  <i>"Build things that matter. Break things to make them safer. 🔐"</i>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Yashi1s&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
