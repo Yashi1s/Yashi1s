@@ -105,10 +105,23 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashi1s&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+
+| 🎯 Milestone | 🏅 Status |
+|:---|:---:|
+| 🐣 Created GitHub Account | ✅ Done |
+| 📝 First Commit | ✅ Done |
+| 🌐 Published Profile README | ✅ Done |
+| 🔐 Cybersecurity Certified | ✅ Done |
+| 🤖 AI/ML Certified | ✅ Done |
+| 🏭 AICTE Internship Completed | ✅ Done |
+| 🇮🇳 Smart India Hackathon | ✅ Done |
+| ⭐ 10 GitHub Stars Received | 🔜 Soon |
+| 🍴 First Pull Request | 🔜 Soon |
+| 👥 10 Followers | 🔜 Soon |
+
 </div>
 
 ---
