@@ -272,4 +272,4 @@ jobs:
   <img src="https://komarev.com/ghpvc/?username=Yashi1s&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> 
